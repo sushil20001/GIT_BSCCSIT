@@ -1,9 +1,9 @@
-# Git Exercises
+# LAB Test BCA 7th Semester
 
 This repository contains the Lab Test of BCA 7th semester exercises. 
 solutions on how to solve these problems.
 
-## Exercises
+## Git Exercises
 
 a.	Fork the repository on Github, open the logs, and figure out how many commits there are.
 
