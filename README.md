@@ -5,7 +5,7 @@ solutions on how to solve these problems.
 
 ## Git Exercises
 
-a.	Fork the repository on Github, open the logs, and figure out how many commits there are.
+a.	Fork the repository on Github (https://github.com/sPaudel544/GIT_BCA), open the logs, and figure out how many commits there are.
 
 b.	List all of the branches (remote and local) and create the branch BCA_Lab_Test
 
