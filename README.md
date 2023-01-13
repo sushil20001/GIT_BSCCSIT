@@ -7,7 +7,7 @@ solutions on how to solve these problems.
 
 a.	Fork the repository on Github (https://github.com/sPaudel544/GIT_BCA), open the logs, and figure out how many commits there are.
 
-b.	List all of the branches (remote and local) and create the branch BCA_Lab_Test
+b.	Create the branch BCA_Lab_Test  and list all of the branches (remote and local)
 
 c.	Create a file called BCA_Lab_Answer.txt with all the code you have created, add it, and commit it with a sensible message.
 
