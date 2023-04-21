@@ -38,3 +38,8 @@ PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git commit -m "qusn2 soln"
 [BSCCSIT_Lab_Test b0ae5e5] qusn2 soln
  1 file changed, 25 insertions(+), 1 deletion(-)
 PS C:\Users\DELL\Desktop\GIT_BSCCSIT> 
+
+\PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git add .
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git commit -m "qusn2 soln"
+[BSCCSIT_Lab_Test f3b344a] qusn2 soln
+ 1 file changed, 8 insertions(+), 1 deletion
