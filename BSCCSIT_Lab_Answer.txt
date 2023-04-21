@@ -7,3 +7,27 @@ remote: Compressing objects: 100% (28/28), done.
 remote: Total 34 (delta 5), reused 16 (delta 1), pack-reused 0
 Receiving objects: 100% (34/34), 6.53 KiB | 1.09 MiB/s, done.
 Resolving deltas: 100% (5/5), done.
+
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git checkout -b BSCCSIT_Lab_Test
+Switched to a new branch 'BSCCSIT_Lab_Test'
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git add .
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git commit -m "qusn2 soln"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'DELL@DESKTOP-LPQ6IQJ.(none)')
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git config --global user.email "you@example.com"
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT>  git config --global user.name "Your Name"
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git commit -m "qusn2 soln" 
+[BSCCSIT_Lab_Test 5b62824] qusn2 soln     
+ 1 file changed, 9 insertions(+)
+ create mode 100644 BSCCSIT_Lab_Answer.txt
