@@ -1,0 +1,9 @@
+DELL@DESKTOP-LPQ6IQJ MINGW64 ~/Desktop
+$ git clone https://github.com/sPaudel544/GIT_BSCCSIT.git
+Cloning into 'GIT_BSCCSIT'...
+remote: Enumerating objects: 34, done.
+remote: Counting objects: 100% (34/34), done.
+remote: Compressing objects: 100% (28/28), done.
+remote: Total 34 (delta 5), reused 16 (delta 1), pack-reused 0
+Receiving objects: 100% (34/34), 6.53 KiB | 1.09 MiB/s, done.
+Resolving deltas: 100% (5/5), done.
