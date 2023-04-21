@@ -43,3 +43,26 @@ PS C:\Users\DELL\Desktop\GIT_BSCCSIT>
 PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git commit -m "qusn2 soln"
 [BSCCSIT_Lab_Test f3b344a] qusn2 soln
  1 file changed, 8 insertions(+), 1 deletion
+
+ PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git checkout main  
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git merge BSCCSIT_Lab_Test
+Updating 0f398cb..f3eb3b8
+Fast-forward
+ BSCCSIT_Lab_Answer.txt | 45 +++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 45 insertions(+)
+ create mode 100644 BSCCSIT_Lab_Answer.txt
+PS C:\Users\DELL\Desktop\GIT_BSCCSIT> git log --oneline
+f3eb3b8 (HEAD -> main, BSCCSIT_Lab_Test) qusn2 soln
+f3b344a qusn2 soln
+b0ae5e5 qusn2 soln
+5b62824 qusn2 soln
+0f398cb (origin/main, origin/HEAD) Update README.md
+309ed6a Update README.md
+62fde77 file removed
+fdf4158 Update README.md
+be8472b Update README.md
+d01aac8 Update README.md
+a4d5749 Change in Readme
+b7738b9 First Commit with files
